@@ -1,0 +1,32 @@
+subject - ID of test subject
+activityType - type of activity performed
+
+measurements are listed below:
+
+timeBodyAccMagnitudeMean
+timeBodyAccMagnitudeStdDev
+timeGravityAccMagnitudeMean	
+timeGravityAccMagnitudeStdDev
+timeBodyAccJerkMagnitudeMean
+timeBodyAccJerkMagnitudeStdDev
+timeBodyGyroMagnitudeMean
+timeBodyGyroMagnitudeStdDev
+timeBodyGyroJerkMagnitudeMean
+timeBodyGyroJerkMagnitudeStdDev	
+freqBodyAccMagnitudeMean
+freqBodyAccMagnitudeStdDev
+freqBodyAccJerkMagnitudeMean
+freqBodyAccJerkMagnitudeStdDev
+freqBodyGyroMagnitudeMean
+freqBodyGyroMagnitudeStdDev
+freqBodyGyroJerkMagnitudeMean
+freqBodyGyroJerkMagnitudeStdDev	
+
+activity labels:
+
+walking
+walking_upstairs
+walking_downstairs
+sitting
+standing
+laying
